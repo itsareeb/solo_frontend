@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785864667265",
+    "project_id": "solo-ebike-services",
+    "storage_bucket": "solo-ebike-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785864667265:android:59ac780912e90cc69d9d80",
+        "android_client_info": {
+          "package_name": "com.example.trial_project_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785864667265-o7mhdbhis5i1dcfm2rbqptf04od3hkdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxZw50T78NZFOuBQe5Nfbg935_vRY5lTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785864667265-o7mhdbhis5i1dcfm2rbqptf04od3hkdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
